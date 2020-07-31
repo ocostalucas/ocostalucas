@@ -1,4 +1,4 @@
-# Lucas Costa
+# :man_technologist: Lucas Costa
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ocostalucas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:olucascosta98@gmail.com)
@@ -6,9 +6,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ocostalucas)
 [![Medium Badge](https://img.shields.io/badge/-Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@olucascosta)
 
-- I'm a Information Systems undergraduate at Lutheran University Center of Palmas :man_technologist: :mortar_board:
-- I’m currently learning Dart and Flutter. :dart: :iphone:
--  Feel free to get in touch by clicking on any of the badges above. :mailbox: :point_up:
+## Hello World! :wave: :earth_americas:
+
+My name is Lucas, and here I share my projects in development.
+
+- :mortar_board: I'm a Information Systems undergraduate at **Lutheran University Center of Palmas**
+- :books: I’m currently learning Dart and Flutter. :heart:
+- :mailbox: Feel free to get in touch by clicking on any of the badges above.
 
 ---
 <details>

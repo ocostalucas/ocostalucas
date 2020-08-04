@@ -1,18 +1,21 @@
-# :man_technologist: Lucas Costa
+### Hey, I'm Lucas Costa! :wave:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ocostalucas/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:olucascosta98@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ocostalucas/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ocostalucas)
-[![Medium Badge](https://img.shields.io/badge/-Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@olucascosta)
+:mortar_board: Information Systems undergraduate  
+:books: I'm currently learning Dart and Flutter :heart:  
+:mag_right: Looking for an internship or opportunity
 
-## Hello World! :wave: :earth_americas:
+### What I'm working on :man_technologist:  
 
-My name is Lucas, and here I share my projects in development.
+:iphone: Building Flutter projects  
+:open_file_folder: All of my projects are available [here](https://github.com/ocostalucas?tab=repositories)
 
-- :mortar_board: I'm a Information Systems undergraduate at **Lutheran University Center of Palmas**
-- :books: I’m currently learning Dart and Flutter. :heart:
-- :mailbox: Feel free to get in touch by clicking on any of the badges above.
+
+### Find me elsewhere 🌎
+
+:mailbox: [Email](mailto:olucascosta98@gmail.com)  
+:briefcase: [LinkedIn](https://www.linkedin.com/in/ocostalucas/)  
+:bird: [Twitter](https://twitter.com/ocostalucas)  
+:camera: [Instagram](https://www.instagram.com/ocostalucas/)
 
 ---
 <details>

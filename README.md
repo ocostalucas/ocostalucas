@@ -1,14 +1,13 @@
 ### Hey, I'm Lucas Costa! :wave:
 
-:mortar_board: Information Systems undergraduate  
+:mortar_board: Information Systems student  
 :books: I'm currently learning Dart and Flutter :heart:  
-:mag_right: Looking for an internship or opportunity
+:dancers: Looking for an internship or opportunity
 
 ### What I'm working on :man_technologist:  
 
-:iphone: Building Flutter projects  
+:iphone: Building Flutter apps  
 :open_file_folder: All of my projects are available [here](https://github.com/ocostalucas?tab=repositories)
-
 
 ### Find me elsewhere 🌎
 

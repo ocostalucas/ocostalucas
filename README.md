@@ -1,8 +1,7 @@
 ### Hey, I'm Lucas Costa! :wave:
 
-:mortar_board: Information Systems student  
+:mortar_board: Information Systems  
 :books: I'm currently learning Dart and Flutter :heart:  
-:dancers: Looking for an internship or opportunity
 
 ### What I'm working on :man_technologist:  
 

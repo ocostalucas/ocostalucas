@@ -8,7 +8,7 @@
 
 ### What I'm focusing on :man_technologist:
 
-:iphone: Recently, I have been working with [Flutter](https://flutter.dev/)
+:iphone: Recently, I have been working with [Flutter](https://flutter.dev/)   
 :open_file_folder: See some of my projects [here](https://github.com/ocostalucas?tab=repositories)
 
 ### Find me elsewhere :earth_americas:
@@ -16,7 +16,7 @@
 :mailbox: [Email](mailto:ocostalucas.dev@gmail.com)  
 :briefcase: [LinkedIn](https://www.linkedin.com/in/ocostalucas/)  
 :bird: [Twitter](https://twitter.com/ocostalucas)  
-:camera: [Instagram](https://www.instagram.com/ocostalucas/)
+:camera: [Instagram](https://www.instagram.com/ocostalucas/)  
 
 ---
 <details>
@@ -24,3 +24,6 @@
   <br>
     <a href="https://github.com/ocostalucas">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ocostalucas&show_icons=true&title_color=EF2D56&icon_color=FF9914&text_color=F8F4F9&bg_color=031926&count_private=true" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocostalucas&layout=compact&show_icons=true&title_color=EF2D56&icon_color=FF9914&text_color=F8F4F9&bg_color=031926&count_private=true" />
+

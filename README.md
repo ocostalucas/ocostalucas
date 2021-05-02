@@ -1,16 +1,19 @@
-### Hey, I'm Lucas Costa! :wave:
+<img align="right" alt="GIF" src="assets/coding.png" width="350"/>
 
-:mortar_board: Information Systems  
-:books: I'm currently learning Dart and Flutter :heart:  
 
-### What I'm working on :man_technologist:  
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Lucas Costa!
 
-:iphone: Building Flutter apps  
-:open_file_folder: All of my projects are available [here](https://github.com/ocostalucas?tab=repositories)
+:mortar_board: Graduated in Information Systems  
+:books: I'm currently learning Angular :heart: 
 
-### Find me elsewhere 🌎
+### What I'm focusing on :man_technologist:
 
-:mailbox: [Email](mailto:olucascosta98@gmail.com)  
+:iphone: Recently, I have been working with [Flutter](https://flutter.dev/)
+:open_file_folder: See some of my projects [here](https://github.com/ocostalucas?tab=repositories)
+
+### Find me elsewhere :earth_americas:
+
+:mailbox: [Email](mailto:ocostalucas.dev@gmail.com)  
 :briefcase: [LinkedIn](https://www.linkedin.com/in/ocostalucas/)  
 :bird: [Twitter](https://twitter.com/ocostalucas)  
 :camera: [Instagram](https://www.instagram.com/ocostalucas/)

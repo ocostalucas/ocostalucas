@@ -23,7 +23,7 @@
   <summary> <b> Coder stats </b> <i>(Click to expand)</i> </summary>
   <br>
     <a href="https://github.com/ocostalucas">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ocostalucas&show_icons=true&title_color=EF2D56&icon_color=FF9914&text_color=F8F4F9&bg_color=031926&count_private=true" />  
+    <img src="https://github-readme-stats.vercel.app/api?username=ocostalucas&show_icons=true&title_color=EF2D56&icon_color=FF9914&text_color=F8F4F9&bg_color=031926&count_private=true" />  
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocostalucas&layout=compact&show_icons=true&title_color=EF2D56&icon_color=FF9914&text_color=F8F4F9&bg_color=031926&count_private=true" />
 

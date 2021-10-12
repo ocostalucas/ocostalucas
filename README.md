@@ -22,6 +22,8 @@
 <details>
   <summary> <b> Coder stats </b> <i>(Click to expand)</i> </summary>
   <br>
+  ![Snake animation](https://github.com/ocostalucas/ocostalucas/blob/output/github-contribution-grid-snake.svg)
+  <br>
   <div align="center">
     <a href="https://github.com/ocostalucas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ocostalucas&show_icons=true&title_color=EF2D56&icon_color=FF9914&text_color=F8F4F9&bg_color=031926&count_private=true" />  

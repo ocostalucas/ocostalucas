@@ -18,11 +18,12 @@
 :bird: [Twitter](https://twitter.com/ocostalucas)  
 :camera: [Instagram](https://www.instagram.com/ocostalucas/)  
 
+![Snake animation](https://github.com/ocostalucas/ocostalucas/blob/output/github-contribution-grid-snake.svg)
+
 ---
 <details>
   <summary> <b> Coder stats </b> <i>(Click to expand)</i> </summary>
   <br>
-  ![Snake animation](https://github.com/ocostalucas/ocostalucas/blob/output/github-contribution-grid-snake.svg)
   <br>
   <div align="center">
     <a href="https://github.com/ocostalucas">

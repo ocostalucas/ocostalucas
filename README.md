@@ -4,7 +4,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey, I'm Lucas Costa!
 
 :mortar_board: Graduated in Information Systems  
-:books: I'm currently learning Angular 
+:books: I'm currently learning Clean Architecture 
 
 ### What I'm focusing on :man_technologist:
 
@@ -15,8 +15,6 @@
 
 :mailbox: [Email](mailto:ocostalucas.dev@gmail.com)  
 :briefcase: [LinkedIn](https://www.linkedin.com/in/ocostalucas/)  
-:bird: [Twitter](https://twitter.com/ocostalucas)  
-:camera: [Instagram](https://www.instagram.com/ocostalucas/)  
 
 ![Snake animation](https://github.com/ocostalucas/ocostalucas/blob/output/github-contribution-grid-snake.svg)
 
